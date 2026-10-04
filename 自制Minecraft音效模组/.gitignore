@@ -1,0 +1,8 @@
+.gradle/
+.gradle-tmp/
+.audio-tools/
+.venv/
+build/
+out/
+run/
+.DS_Store

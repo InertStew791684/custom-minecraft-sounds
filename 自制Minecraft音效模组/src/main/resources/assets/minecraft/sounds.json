@@ -1,0 +1,2677 @@
+{
+  "block.amethyst_block.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.amethyst_cluster.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.ancient_debris.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.anvil.fall": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:anvil_fall"
+      }
+    ]
+  },
+  "block.anvil.land": {
+    "replace": true,
+    "subtitle": "subtitles.block.anvil.land",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:anvil_fall"
+      }
+    ]
+  },
+  "block.anvil.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.azalea.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.azalea_leaves.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.bamboo.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.bamboo_sapling.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.bamboo_wood.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.bamboo_wood_door.close": {
+    "replace": true,
+    "subtitle": "subtitles.block.door.toggle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_close"
+      }
+    ]
+  },
+  "block.bamboo_wood_door.open": {
+    "replace": true,
+    "subtitle": "subtitles.block.door.toggle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_open"
+      }
+    ]
+  },
+  "block.bamboo_wood_fence_gate.close": {
+    "replace": true,
+    "subtitle": "subtitles.block.fence_gate.toggle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_close"
+      }
+    ]
+  },
+  "block.bamboo_wood_fence_gate.open": {
+    "replace": true,
+    "subtitle": "subtitles.block.fence_gate.toggle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_open"
+      }
+    ]
+  },
+  "block.bamboo_wood_hanging_sign.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.bamboo_wood_trapdoor.close": {
+    "replace": true,
+    "subtitle": "subtitles.block.trapdoor.toggle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_close"
+      }
+    ]
+  },
+  "block.bamboo_wood_trapdoor.open": {
+    "replace": true,
+    "subtitle": "subtitles.block.trapdoor.toggle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_open"
+      }
+    ]
+  },
+  "block.basalt.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.bell.resonate": {
+    "replace": true,
+    "subtitle": "subtitles.block.bell.resonate",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:bell"
+      }
+    ]
+  },
+  "block.bell.use": {
+    "replace": true,
+    "subtitle": "subtitles.block.bell.use",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:bell"
+      }
+    ]
+  },
+  "block.big_dripleaf.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.bone_block.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.calcite.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.candle.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.cave_vines.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.chain.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.cherry_leaves.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.cherry_sapling.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.cherry_wood.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.cherry_wood_door.close": {
+    "replace": true,
+    "subtitle": "subtitles.block.door.toggle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_close"
+      }
+    ]
+  },
+  "block.cherry_wood_door.open": {
+    "replace": true,
+    "subtitle": "subtitles.block.door.toggle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_open"
+      }
+    ]
+  },
+  "block.cherry_wood_fence_gate.close": {
+    "replace": true,
+    "subtitle": "subtitles.block.fence_gate.toggle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_close"
+      }
+    ]
+  },
+  "block.cherry_wood_fence_gate.open": {
+    "replace": true,
+    "subtitle": "subtitles.block.fence_gate.toggle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_open"
+      }
+    ]
+  },
+  "block.cherry_wood_hanging_sign.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.cherry_wood_trapdoor.close": {
+    "replace": true,
+    "subtitle": "subtitles.block.trapdoor.toggle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_close"
+      }
+    ]
+  },
+  "block.cherry_wood_trapdoor.open": {
+    "replace": true,
+    "subtitle": "subtitles.block.trapdoor.toggle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_open"
+      }
+    ]
+  },
+  "block.chest.close": {
+    "replace": true,
+    "subtitle": "subtitles.block.chest.close",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:close_chest"
+      }
+    ]
+  },
+  "block.chest.open": {
+    "replace": true,
+    "subtitle": "subtitles.block.chest.open",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:open_chest"
+      }
+    ]
+  },
+  "block.chiseled_bookshelf.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.cobweb.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.copper.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.copper_bulb.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.copper_door.close": {
+    "replace": true,
+    "subtitle": "subtitles.block.door.toggle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_close"
+      }
+    ]
+  },
+  "block.copper_door.open": {
+    "replace": true,
+    "subtitle": "subtitles.block.door.toggle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_open"
+      }
+    ]
+  },
+  "block.copper_grate.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.copper_trapdoor.close": {
+    "replace": true,
+    "subtitle": "subtitles.block.copper_trapdoor.close",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_close"
+      }
+    ]
+  },
+  "block.copper_trapdoor.open": {
+    "replace": true,
+    "subtitle": "subtitles.block.copper_trapdoor.open",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_open"
+      }
+    ]
+  },
+  "block.coral_block.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.decorated_pot.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.deepslate.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.deepslate_bricks.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.deepslate_tiles.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.dripstone_block.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.ender_chest.close": {
+    "replace": true,
+    "subtitle": "subtitles.block.chest.close",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:close_chest"
+      }
+    ]
+  },
+  "block.ender_chest.open": {
+    "replace": true,
+    "subtitle": "subtitles.block.chest.open",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:open_chest"
+      }
+    ]
+  },
+  "block.fence_gate.close": {
+    "replace": true,
+    "subtitle": "subtitles.block.fence_gate.toggle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_close"
+      }
+    ]
+  },
+  "block.fence_gate.open": {
+    "replace": true,
+    "subtitle": "subtitles.block.fence_gate.toggle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_open"
+      }
+    ]
+  },
+  "block.flowering_azalea.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.froglight.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.frogspawn.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.fungus.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.gilded_blackstone.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.glass.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.grass.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.gravel.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.hanging_roots.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.hanging_sign.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.heavy_core.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.honey_block.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.iron_door.close": {
+    "replace": true,
+    "subtitle": "subtitles.block.door.toggle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_close"
+      }
+    ]
+  },
+  "block.iron_door.open": {
+    "replace": true,
+    "subtitle": "subtitles.block.door.toggle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_open"
+      }
+    ]
+  },
+  "block.iron_trapdoor.close": {
+    "replace": true,
+    "subtitle": "subtitles.block.iron_trapdoor.close",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_close"
+      }
+    ]
+  },
+  "block.iron_trapdoor.open": {
+    "replace": true,
+    "subtitle": "subtitles.block.iron_trapdoor.open",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_open"
+      }
+    ]
+  },
+  "block.ladder.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.lantern.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.large_amethyst_bud.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.lily_pad.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.lodestone.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.mangrove_roots.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.medium_amethyst_bud.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.metal.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.moss.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.moss_carpet.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.mud.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.mud_bricks.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.muddy_mangrove_roots.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.nether_bricks.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.nether_gold_ore.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.nether_ore.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.nether_sprouts.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.nether_wood.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.nether_wood_door.close": {
+    "replace": true,
+    "subtitle": "subtitles.block.door.toggle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_close"
+      }
+    ]
+  },
+  "block.nether_wood_door.open": {
+    "replace": true,
+    "subtitle": "subtitles.block.door.toggle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_open"
+      }
+    ]
+  },
+  "block.nether_wood_fence_gate.close": {
+    "replace": true,
+    "subtitle": "subtitles.block.fence_gate.toggle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_close"
+      }
+    ]
+  },
+  "block.nether_wood_fence_gate.open": {
+    "replace": true,
+    "subtitle": "subtitles.block.fence_gate.toggle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_open"
+      }
+    ]
+  },
+  "block.nether_wood_hanging_sign.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.nether_wood_trapdoor.close": {
+    "replace": true,
+    "subtitle": "subtitles.block.trapdoor.toggle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_close"
+      }
+    ]
+  },
+  "block.nether_wood_trapdoor.open": {
+    "replace": true,
+    "subtitle": "subtitles.block.trapdoor.toggle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_open"
+      }
+    ]
+  },
+  "block.netherite_block.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.netherrack.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.nylium.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.packed_mud.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.pink_petals.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.pointed_dripstone.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.polished_deepslate.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.polished_tuff.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.powder_snow.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.rooted_dirt.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.roots.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.sand.break": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.break",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:sand"
+      }
+    ]
+  },
+  "block.sand.fall": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:sand"
+      }
+    ]
+  },
+  "block.sand.hit": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.hit",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:sand"
+      }
+    ]
+  },
+  "block.sand.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.sand.step": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.footsteps",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:sand"
+      }
+    ]
+  },
+  "block.scaffolding.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.sculk.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.sculk_catalyst.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.sculk_sensor.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.sculk_shrieker.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.sculk_vein.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.shroomlight.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.slime_block.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.small_amethyst_bud.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.small_dripleaf.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.snow.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.soul_sand.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.soul_soil.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.spawner.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.sponge.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.spore_blossom.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.stem.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.stone.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.suspicious_gravel.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.suspicious_sand.break": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.break",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:sand"
+      }
+    ]
+  },
+  "block.suspicious_sand.fall": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:sand"
+      }
+    ]
+  },
+  "block.suspicious_sand.hit": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.hit",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:sand"
+      }
+    ]
+  },
+  "block.suspicious_sand.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.suspicious_sand.step": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.footsteps",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:sand"
+      }
+    ]
+  },
+  "block.sweet_berry_bush.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.trial_spawner.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.tuff.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.tuff_bricks.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.vault.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.vine.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.wart_block.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.weeping_vines.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.wet_grass.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.wet_sponge.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.wood.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "block.wooden_door.close": {
+    "replace": true,
+    "subtitle": "subtitles.block.door.toggle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_close"
+      }
+    ]
+  },
+  "block.wooden_door.open": {
+    "replace": true,
+    "subtitle": "subtitles.block.door.toggle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_open"
+      }
+    ]
+  },
+  "block.wooden_trapdoor.close": {
+    "replace": true,
+    "subtitle": "subtitles.block.trapdoor.toggle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_close"
+      }
+    ]
+  },
+  "block.wooden_trapdoor.open": {
+    "replace": true,
+    "subtitle": "subtitles.block.trapdoor.toggle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:door_open"
+      }
+    ]
+  },
+  "block.wool.place": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:place_block"
+      }
+    ]
+  },
+  "entity.bee.death": {
+    "replace": true,
+    "subtitle": "subtitles.entity.bee.death",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:bee"
+      }
+    ]
+  },
+  "entity.bee.hurt": {
+    "replace": true,
+    "subtitle": "subtitles.entity.bee.hurt",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:bee"
+      }
+    ]
+  },
+  "entity.bee.loop": {
+    "replace": true,
+    "subtitle": "subtitles.entity.bee.loop",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:bee"
+      }
+    ]
+  },
+  "entity.bee.loop_aggressive": {
+    "replace": true,
+    "subtitle": "subtitles.entity.bee.loop_aggressive",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:bee"
+      }
+    ]
+  },
+  "entity.bee.pollinate": {
+    "replace": true,
+    "subtitle": "subtitles.entity.bee.pollinate",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:bee"
+      }
+    ]
+  },
+  "entity.bee.sting": {
+    "replace": true,
+    "subtitle": "subtitles.entity.bee.sting",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:bee"
+      }
+    ]
+  },
+  "entity.cat.ambient": {
+    "replace": true,
+    "subtitle": "subtitles.entity.cat.ambient",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:cat"
+      }
+    ]
+  },
+  "entity.cat.beg_for_food": {
+    "replace": true,
+    "subtitle": "subtitles.entity.cat.beg_for_food",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:cat"
+      }
+    ]
+  },
+  "entity.cat.death": {
+    "replace": true,
+    "subtitle": "subtitles.entity.cat.death",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:cat"
+      }
+    ]
+  },
+  "entity.cat.eat": {
+    "replace": true,
+    "subtitle": "subtitles.entity.cat.eat",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:cat"
+      }
+    ]
+  },
+  "entity.cat.hiss": {
+    "replace": true,
+    "subtitle": "subtitles.entity.cat.hiss",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:cat"
+      }
+    ]
+  },
+  "entity.cat.hurt": {
+    "replace": true,
+    "subtitle": "subtitles.entity.cat.hurt",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:cat"
+      }
+    ]
+  },
+  "entity.cat.purr": {
+    "replace": true,
+    "subtitle": "subtitles.entity.cat.purr",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:cat"
+      }
+    ]
+  },
+  "entity.cat.purreow": {
+    "replace": true,
+    "subtitle": "subtitles.entity.cat.ambient",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:cat"
+      }
+    ]
+  },
+  "entity.cat.stray_ambient": {
+    "replace": true,
+    "subtitle": "subtitles.entity.cat.ambient",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:cat"
+      }
+    ]
+  },
+  "entity.chicken.ambient": {
+    "replace": true,
+    "subtitle": "subtitles.entity.chicken.ambient",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:chicken"
+      }
+    ]
+  },
+  "entity.chicken.death": {
+    "replace": true,
+    "subtitle": "subtitles.entity.chicken.death",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:chicken"
+      }
+    ]
+  },
+  "entity.chicken.egg": {
+    "replace": true,
+    "subtitle": "subtitles.entity.chicken.egg",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:chicken"
+      }
+    ]
+  },
+  "entity.chicken.hurt": {
+    "replace": true,
+    "subtitle": "subtitles.entity.chicken.hurt",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:chicken"
+      }
+    ]
+  },
+  "entity.chicken.step": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.footsteps",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:chicken"
+      }
+    ]
+  },
+  "entity.cow.ambient": {
+    "replace": true,
+    "subtitle": "subtitles.entity.cow.ambient",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:cow"
+      }
+    ]
+  },
+  "entity.cow.death": {
+    "replace": true,
+    "subtitle": "subtitles.entity.cow.death",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:cow"
+      }
+    ]
+  },
+  "entity.cow.hurt": {
+    "replace": true,
+    "subtitle": "subtitles.entity.cow.hurt",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:cow"
+      }
+    ]
+  },
+  "entity.cow.milk": {
+    "replace": true,
+    "subtitle": "subtitles.entity.cow.milk",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:cow"
+      }
+    ]
+  },
+  "entity.cow.step": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.footsteps",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:cow"
+      }
+    ]
+  },
+  "entity.firework_rocket.blast": {
+    "replace": true,
+    "subtitle": "subtitles.entity.firework_rocket.blast",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:explosion",
+        "attenuation_distance": 256,
+        "preload": true
+      }
+    ]
+  },
+  "entity.firework_rocket.blast_far": {
+    "replace": true,
+    "subtitle": "subtitles.entity.firework_rocket.blast",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:explosion",
+        "attenuation_distance": 256,
+        "preload": true
+      }
+    ]
+  },
+  "entity.firework_rocket.large_blast": {
+    "replace": true,
+    "subtitle": "subtitles.entity.firework_rocket.blast",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:explosion",
+        "attenuation_distance": 256,
+        "preload": true
+      }
+    ]
+  },
+  "entity.firework_rocket.large_blast_far": {
+    "replace": true,
+    "subtitle": "subtitles.entity.firework_rocket.blast",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:explosion",
+        "attenuation_distance": 256,
+        "preload": true
+      }
+    ]
+  },
+  "entity.firework_rocket.launch": {
+    "replace": true,
+    "subtitle": "subtitles.entity.firework_rocket.launch",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:firework"
+      }
+    ]
+  },
+  "entity.firework_rocket.shoot": {
+    "replace": true,
+    "subtitle": "subtitles.entity.firework_rocket.launch",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:firework"
+      }
+    ]
+  },
+  "entity.firework_rocket.twinkle": {
+    "replace": true,
+    "subtitle": "subtitles.entity.firework_rocket.twinkle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:explosion",
+        "attenuation_distance": 256,
+        "preload": true
+      }
+    ]
+  },
+  "entity.firework_rocket.twinkle_far": {
+    "replace": true,
+    "subtitle": "subtitles.entity.firework_rocket.twinkle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:explosion",
+        "attenuation_distance": 256,
+        "preload": true
+      }
+    ]
+  },
+  "entity.frog.ambient": {
+    "replace": true,
+    "subtitle": "subtitles.entity.frog.ambient",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:frog"
+      }
+    ]
+  },
+  "entity.frog.death": {
+    "replace": true,
+    "subtitle": "subtitles.entity.frog.death",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:frog"
+      }
+    ]
+  },
+  "entity.frog.eat": {
+    "replace": true,
+    "subtitle": "subtitles.entity.frog.eat",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:frog"
+      }
+    ]
+  },
+  "entity.frog.hurt": {
+    "replace": true,
+    "subtitle": "subtitles.entity.frog.hurt",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:frog"
+      }
+    ]
+  },
+  "entity.frog.lay_spawn": {
+    "replace": true,
+    "subtitle": "subtitles.entity.frog.lay_spawn",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:frog"
+      }
+    ]
+  },
+  "entity.frog.long_jump": {
+    "replace": true,
+    "subtitle": "subtitles.entity.frog.long_jump",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:frog"
+      }
+    ]
+  },
+  "entity.frog.step": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.footsteps",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:frog"
+      }
+    ]
+  },
+  "entity.frog.tongue": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:frog"
+      }
+    ]
+  },
+  "entity.generic.big_fall": {
+    "replace": true,
+    "subtitle": "subtitles.entity.generic.big_fall",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:fall_down"
+      }
+    ]
+  },
+  "entity.generic.drink": {
+    "replace": true,
+    "subtitle": "subtitles.entity.generic.drink",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:drinking"
+      }
+    ]
+  },
+  "entity.generic.eat": {
+    "replace": true,
+    "subtitle": "subtitles.entity.generic.eat",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:eating"
+      }
+    ]
+  },
+  "entity.generic.explode": {
+    "replace": true,
+    "subtitle": "subtitles.entity.generic.explode",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:explosion",
+        "attenuation_distance": 64,
+        "preload": true
+      }
+    ]
+  },
+  "entity.generic.small_fall": {
+    "replace": true,
+    "subtitle": "subtitles.entity.generic.small_fall",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:fall_down"
+      }
+    ]
+  },
+  "entity.generic.splash": {
+    "replace": true,
+    "subtitle": "subtitles.entity.generic.splash",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:fall_in_water"
+      }
+    ]
+  },
+  "entity.hostile.big_fall": {
+    "replace": true,
+    "subtitle": "subtitles.entity.generic.big_fall",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:fall_down"
+      }
+    ]
+  },
+  "entity.hostile.small_fall": {
+    "replace": true,
+    "subtitle": "subtitles.entity.generic.small_fall",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:fall_down"
+      }
+    ]
+  },
+  "entity.hostile.splash": {
+    "replace": true,
+    "subtitle": "subtitles.entity.generic.splash",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:fall_in_water"
+      }
+    ]
+  },
+  "entity.pig.ambient": {
+    "replace": true,
+    "subtitle": "subtitles.entity.pig.ambient",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:pig"
+      }
+    ]
+  },
+  "entity.pig.death": {
+    "replace": true,
+    "subtitle": "subtitles.entity.pig.death",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:pig"
+      }
+    ]
+  },
+  "entity.pig.hurt": {
+    "replace": true,
+    "subtitle": "subtitles.entity.pig.hurt",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:pig"
+      }
+    ]
+  },
+  "entity.pig.saddle": {
+    "replace": true,
+    "subtitle": "subtitles.entity.pig.saddle",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:pig"
+      }
+    ]
+  },
+  "entity.pig.step": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.footsteps",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:pig"
+      }
+    ]
+  },
+  "entity.player.big_fall": {
+    "replace": true,
+    "subtitle": "subtitles.entity.generic.big_fall",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:fall_down"
+      }
+    ]
+  },
+  "entity.player.hurt": {
+    "replace": true,
+    "subtitle": "subtitles.entity.player.hurt",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:steve_hurt"
+      }
+    ]
+  },
+  "entity.player.hurt_drown": {
+    "replace": true,
+    "subtitle": "subtitles.entity.player.hurt_drown",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:drown"
+      }
+    ]
+  },
+  "entity.player.hurt_freeze": {
+    "replace": true,
+    "subtitle": "subtitles.entity.player.freeze_hurt",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:steve_hurt"
+      }
+    ]
+  },
+  "entity.player.hurt_on_fire": {
+    "replace": true,
+    "subtitle": "subtitles.entity.player.hurt_on_fire",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:steve_hurt"
+      }
+    ]
+  },
+  "entity.player.hurt_sweet_berry_bush": {
+    "replace": true,
+    "subtitle": "subtitles.entity.player.hurt",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:steve_hurt"
+      }
+    ]
+  },
+  "entity.player.small_fall": {
+    "replace": true,
+    "subtitle": "subtitles.entity.generic.small_fall",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:fall_down"
+      }
+    ]
+  },
+  "entity.player.splash": {
+    "replace": true,
+    "subtitle": "subtitles.entity.generic.splash",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:fall_in_water"
+      }
+    ]
+  },
+  "entity.player.splash.high_speed": {
+    "replace": true,
+    "subtitle": "subtitles.entity.generic.splash",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:fall_in_water"
+      }
+    ]
+  },
+  "entity.sheep.ambient": {
+    "replace": true,
+    "subtitle": "subtitles.entity.sheep.ambient",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:sheep"
+      }
+    ]
+  },
+  "entity.sheep.death": {
+    "replace": true,
+    "subtitle": "subtitles.entity.sheep.death",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:sheep"
+      }
+    ]
+  },
+  "entity.sheep.hurt": {
+    "replace": true,
+    "subtitle": "subtitles.entity.sheep.hurt",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:sheep"
+      }
+    ]
+  },
+  "entity.sheep.shear": {
+    "replace": true,
+    "subtitle": "subtitles.item.shears.shear",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:sheep"
+      }
+    ]
+  },
+  "entity.sheep.step": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.footsteps",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:sheep"
+      }
+    ]
+  },
+  "entity.spider.ambient": {
+    "replace": true,
+    "subtitle": "subtitles.entity.spider.ambient",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:spider"
+      }
+    ]
+  },
+  "entity.spider.death": {
+    "replace": true,
+    "subtitle": "subtitles.entity.spider.death",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:spider"
+      }
+    ]
+  },
+  "entity.spider.hurt": {
+    "replace": true,
+    "subtitle": "subtitles.entity.spider.hurt",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:spider"
+      }
+    ]
+  },
+  "entity.spider.step": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.footsteps",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:spider"
+      }
+    ]
+  },
+  "entity.tnt.primed": {
+    "replace": true,
+    "subtitle": "subtitles.entity.tnt.primed",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:explosion",
+        "attenuation_distance": 64,
+        "preload": true
+      }
+    ]
+  },
+  "entity.villager.ambient": {
+    "replace": true,
+    "subtitle": "subtitles.entity.villager.ambient",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:villager"
+      }
+    ]
+  },
+  "entity.villager.celebrate": {
+    "replace": true,
+    "subtitle": "subtitles.entity.villager.celebrate",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:villager"
+      }
+    ]
+  },
+  "entity.villager.death": {
+    "replace": true,
+    "subtitle": "subtitles.entity.villager.death",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:villager"
+      }
+    ]
+  },
+  "entity.villager.hurt": {
+    "replace": true,
+    "subtitle": "subtitles.entity.villager.hurt",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:villager_hurt"
+      }
+    ]
+  },
+  "entity.villager.no": {
+    "replace": true,
+    "subtitle": "subtitles.entity.villager.no",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:villager"
+      }
+    ]
+  },
+  "entity.villager.trade": {
+    "replace": true,
+    "subtitle": "subtitles.entity.villager.trade",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:villager"
+      }
+    ]
+  },
+  "entity.villager.work_armorer": {
+    "replace": true,
+    "subtitle": "subtitles.entity.villager.work_armorer",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:villager"
+      }
+    ]
+  },
+  "entity.villager.work_butcher": {
+    "replace": true,
+    "subtitle": "subtitles.entity.villager.work_butcher",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:villager"
+      }
+    ]
+  },
+  "entity.villager.work_cartographer": {
+    "replace": true,
+    "subtitle": "subtitles.entity.villager.work_cartographer",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:villager"
+      }
+    ]
+  },
+  "entity.villager.work_cleric": {
+    "replace": true,
+    "subtitle": "subtitles.entity.villager.work_cleric",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:villager"
+      }
+    ]
+  },
+  "entity.villager.work_farmer": {
+    "replace": true,
+    "subtitle": "subtitles.entity.villager.work_farmer",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:villager"
+      }
+    ]
+  },
+  "entity.villager.work_fisherman": {
+    "replace": true,
+    "subtitle": "subtitles.entity.villager.work_fisherman",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:villager"
+      }
+    ]
+  },
+  "entity.villager.work_fletcher": {
+    "replace": true,
+    "subtitle": "subtitles.entity.villager.work_fletcher",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:villager"
+      }
+    ]
+  },
+  "entity.villager.work_leatherworker": {
+    "replace": true,
+    "subtitle": "subtitles.entity.villager.work_leatherworker",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:villager"
+      }
+    ]
+  },
+  "entity.villager.work_librarian": {
+    "replace": true,
+    "subtitle": "subtitles.entity.villager.work_librarian",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:villager"
+      }
+    ]
+  },
+  "entity.villager.work_mason": {
+    "replace": true,
+    "subtitle": "subtitles.entity.villager.work_mason",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:villager"
+      }
+    ]
+  },
+  "entity.villager.work_shepherd": {
+    "replace": true,
+    "subtitle": "subtitles.entity.villager.work_shepherd",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:villager"
+      }
+    ]
+  },
+  "entity.villager.work_toolsmith": {
+    "replace": true,
+    "subtitle": "subtitles.entity.villager.work_toolsmith",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:villager"
+      }
+    ]
+  },
+  "entity.villager.work_weaponsmith": {
+    "replace": true,
+    "subtitle": "subtitles.entity.villager.work_weaponsmith",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:villager"
+      }
+    ]
+  },
+  "entity.villager.yes": {
+    "replace": true,
+    "subtitle": "subtitles.entity.villager.yes",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:villager"
+      }
+    ]
+  },
+  "entity.warden.agitated": {
+    "replace": true,
+    "subtitle": "subtitles.entity.warden.agitated",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:warden"
+      }
+    ]
+  },
+  "entity.warden.ambient": {
+    "replace": true,
+    "subtitle": "subtitles.entity.warden.ambient",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:warden"
+      }
+    ]
+  },
+  "entity.warden.angry": {
+    "replace": true,
+    "subtitle": "subtitles.entity.warden.angry",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:warden"
+      }
+    ]
+  },
+  "entity.warden.attack_impact": {
+    "replace": true,
+    "subtitle": "subtitles.entity.warden.attack_impact",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:warden"
+      }
+    ]
+  },
+  "entity.warden.death": {
+    "replace": true,
+    "subtitle": "subtitles.entity.warden.death",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:warden"
+      }
+    ]
+  },
+  "entity.warden.dig": {
+    "replace": true,
+    "subtitle": "subtitles.entity.warden.dig",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:warden"
+      }
+    ]
+  },
+  "entity.warden.emerge": {
+    "replace": true,
+    "subtitle": "subtitles.entity.warden.emerge",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:warden"
+      }
+    ]
+  },
+  "entity.warden.heartbeat": {
+    "replace": true,
+    "subtitle": "subtitles.entity.warden.heartbeat",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:warden"
+      }
+    ]
+  },
+  "entity.warden.hurt": {
+    "replace": true,
+    "subtitle": "subtitles.entity.warden.hurt",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:warden"
+      }
+    ]
+  },
+  "entity.warden.listening": {
+    "replace": true,
+    "subtitle": "subtitles.entity.warden.listening",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:warden"
+      }
+    ]
+  },
+  "entity.warden.listening_angry": {
+    "replace": true,
+    "subtitle": "subtitles.entity.warden.listening_angry",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:warden"
+      }
+    ]
+  },
+  "entity.warden.nearby_close": {
+    "replace": true,
+    "subtitle": "subtitles.entity.warden.nearby_close",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:warden"
+      }
+    ]
+  },
+  "entity.warden.nearby_closer": {
+    "replace": true,
+    "subtitle": "subtitles.entity.warden.nearby_closer",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:warden"
+      }
+    ]
+  },
+  "entity.warden.nearby_closest": {
+    "replace": true,
+    "subtitle": "subtitles.entity.warden.nearby_closest",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:warden"
+      }
+    ]
+  },
+  "entity.warden.roar": {
+    "replace": true,
+    "subtitle": "subtitles.entity.warden.roar",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:warden"
+      }
+    ]
+  },
+  "entity.warden.sniff": {
+    "replace": true,
+    "subtitle": "subtitles.entity.warden.sniff",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:warden"
+      }
+    ]
+  },
+  "entity.warden.sonic_boom": {
+    "replace": true,
+    "subtitle": "subtitles.entity.warden.sonic_boom",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:warden"
+      }
+    ]
+  },
+  "entity.warden.sonic_charge": {
+    "replace": true,
+    "subtitle": "subtitles.entity.warden.sonic_charge",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:warden"
+      }
+    ]
+  },
+  "entity.warden.step": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.footsteps",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:warden"
+      }
+    ]
+  },
+  "entity.warden.tendril_clicks": {
+    "replace": true,
+    "subtitle": "subtitles.entity.warden.tendril_clicks",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:warden"
+      }
+    ]
+  },
+  "entity.wolf.ambient": {
+    "replace": true,
+    "subtitle": "subtitles.entity.wolf.ambient",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:wolf"
+      }
+    ]
+  },
+  "entity.wolf.death": {
+    "replace": true,
+    "subtitle": "subtitles.entity.wolf.death",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:wolf"
+      }
+    ]
+  },
+  "entity.wolf.growl": {
+    "replace": true,
+    "subtitle": "subtitles.entity.wolf.growl",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:wolf"
+      }
+    ]
+  },
+  "entity.wolf.howl": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:wolf"
+      }
+    ]
+  },
+  "entity.wolf.hurt": {
+    "replace": true,
+    "subtitle": "subtitles.entity.wolf.hurt",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:wolf"
+      }
+    ]
+  },
+  "entity.wolf.pant": {
+    "replace": true,
+    "subtitle": "subtitles.entity.wolf.ambient",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:wolf"
+      }
+    ]
+  },
+  "entity.wolf.shake": {
+    "replace": true,
+    "subtitle": "subtitles.entity.wolf.shake",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:wolf"
+      }
+    ]
+  },
+  "entity.wolf.step": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.footsteps",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:wolf"
+      }
+    ]
+  },
+  "entity.wolf.whine": {
+    "replace": true,
+    "subtitle": "subtitles.entity.wolf.ambient",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:wolf"
+      }
+    ]
+  },
+  "entity.zombie.ambient": {
+    "replace": true,
+    "subtitle": "subtitles.entity.zombie.ambient",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:zombie"
+      }
+    ]
+  },
+  "entity.zombie.attack_iron_door": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.break",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:zombie"
+      }
+    ]
+  },
+  "entity.zombie.attack_wooden_door": {
+    "replace": true,
+    "subtitle": "subtitles.entity.zombie.attack_wooden_door",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:zombie"
+      }
+    ]
+  },
+  "entity.zombie.break_wooden_door": {
+    "replace": true,
+    "subtitle": "subtitles.entity.zombie.break_wooden_door",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:zombie"
+      }
+    ]
+  },
+  "entity.zombie.converted_to_drowned": {
+    "replace": true,
+    "subtitle": "subtitles.entity.zombie.converted_to_drowned",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:zombie"
+      }
+    ]
+  },
+  "entity.zombie.death": {
+    "replace": true,
+    "subtitle": "subtitles.entity.zombie.death",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:zombie"
+      }
+    ]
+  },
+  "entity.zombie.destroy_egg": {
+    "replace": true,
+    "subtitle": "subtitles.entity.zombie.destroy_egg",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:zombie"
+      }
+    ]
+  },
+  "entity.zombie.hurt": {
+    "replace": true,
+    "subtitle": "subtitles.entity.zombie.hurt",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:zombie"
+      }
+    ]
+  },
+  "entity.zombie.infect": {
+    "replace": true,
+    "subtitle": "subtitles.entity.zombie.infect",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:zombie"
+      }
+    ]
+  },
+  "entity.zombie.step": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.footsteps",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:zombie"
+      }
+    ]
+  },
+  "entity.zombie_villager.ambient": {
+    "replace": true,
+    "subtitle": "subtitles.entity.zombie_villager.ambient",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:zombie"
+      }
+    ]
+  },
+  "entity.zombie_villager.converted": {
+    "replace": true,
+    "subtitle": "subtitles.entity.zombie_villager.converted",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:zombie"
+      }
+    ]
+  },
+  "entity.zombie_villager.cure": {
+    "replace": true,
+    "subtitle": "subtitles.entity.zombie_villager.cure",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:zombie"
+      }
+    ]
+  },
+  "entity.zombie_villager.death": {
+    "replace": true,
+    "subtitle": "subtitles.entity.zombie_villager.death",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:zombie"
+      }
+    ]
+  },
+  "entity.zombie_villager.hurt": {
+    "replace": true,
+    "subtitle": "subtitles.entity.zombie_villager.hurt",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:zombie"
+      }
+    ]
+  },
+  "entity.zombie_villager.step": {
+    "replace": true,
+    "subtitle": "subtitles.block.generic.footsteps",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:zombie"
+      }
+    ]
+  },
+  "weather.rain": {
+    "replace": true,
+    "subtitle": "subtitles.weather.rain",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:raining"
+      }
+    ]
+  },
+  "weather.rain.above": {
+    "replace": true,
+    "subtitle": "subtitles.weather.rain",
+    "sounds": [
+      {
+        "name": "custom_minecraft_sounds:raining"
+      }
+    ]
+  }
+}

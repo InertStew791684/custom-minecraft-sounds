@@ -1,0 +1,22 @@
+plugins {
+    id 'java'
+}
+
+group = 'local.minecraftsounds'
+version = '1.0.0'
+
+base {
+    archivesName = 'custom-minecraft-sounds-1.21.1-fabric'
+}
+
+tasks.withType(Jar).configureEach {
+    preserveFileTimestamps = false
+    reproducibleFileOrder = true
+    manifest {
+        attributes(
+            'Implementation-Title': 'Custom Minecraft Sounds',
+            'Implementation-Version': project.version
+        )
+    }
+}
+

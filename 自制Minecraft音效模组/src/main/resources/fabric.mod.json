@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "custom_minecraft_sounds",
+  "version": "1.0.0",
+  "name": "自制 Minecraft 音效",
+  "description": "使用自制配音完整替换对应的 Minecraft 原版音效事件。",
+  "environment": "client",
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "1.21.1",
+    "java": ">=21"
+  }
+}
+
